@@ -31,6 +31,7 @@
 - Spring을 활용해서 마이페이지 구현을 담당했습니다.
 - https://github.com/ITWILL-SHAPE/Shape
 
-### ♟️Chess (2024.04.01~2024.04.24)
+### Chess (2024.04.01~2024.04.24)
 - Java의 Swing을 이용한 개인 프로젝트입니다.
+- [구현 영상](https://youtu.be/R7YjgXiH7ek?si=3PkjhQ1cukH_1wzD)
 - https://github.com/drj9812/chess
