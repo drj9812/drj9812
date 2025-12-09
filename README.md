@@ -10,7 +10,7 @@
 ## Links
 <div style="text-align: left;">
     <a href="https://solved.ac/drj9812">
-        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=baesaa0304" style="display: inline-block;"/>
+        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=drj9812" style="display: inline-block;"/>
     </a>
     <a href="https://drj9812.github.io">
         <img src="https://img.shields.io/badge/Github Blog-181717?style=flat-square&logo=github&logoColor=white">
