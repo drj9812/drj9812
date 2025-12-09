@@ -22,12 +22,12 @@
 
 ## Projects
 ### 내풀잎스 (2023.07.25~2023.08.23)
-- 식물을 구매하고 판매할 수 있는 사이트입니다.
-- Spring Security와 Kakao API를 활용해서 로그인 및 회원가입 기능을 구현했습니다.
+- 식물을 구매하고 판매할 수 있는 웹 사이트입니다.
+- Spring Security와 Kakao API를 활용해서 로그인 및 회원가입 기능 구현을 담당했습니다.
 - https://github.com/ITWILL-MYLEAVES/Myleaves
 
 ### Shape (2023.05.26~2023.06.23)
-- 소모임 사이트입니다.
+- 소모임 웹 사이트입니다.
 - Spring을 활용해서 마이페이지 구현을 담당했습니다.
 - https://github.com/ITWILL-SHAPE/Shape
 
